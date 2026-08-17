@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm EricBao1129 👋
+🎓 Undergraduate majoring in Public Administration
+🎯 Job target: Administration Operation Management, Functional Support
 
-<!--
-**EricBao1129/EricBao1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- Office tools: Word, Excel, PowerPoint
+- Data analysis: SPSS, Nvivo, basic Python, CiteSpace
+- Work: process sorting, document management, data statistics
 
-Here are some ideas to get you started:
+## 📂 Projects
+- Administrative process optimization document
+- Questionnaire data analysis practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- email：15640274030@163.com
+- WeChat/QQ：1070637460
